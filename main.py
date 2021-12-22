@@ -1,7 +1,7 @@
 import add 
 import sub
-import Untitled9
-import untitled1
+import Multiply
+import DIV
 x=int(input("Please Enter The first Number: "))
 y=int(input("Please Enter The second Number: "))
 
@@ -12,6 +12,6 @@ if a==1:
 if a==2:
   print("The difference of the 2 numbers is:",sub.sub(x,y))
 if a==3:
-  print("The product of the 2 numbers is:",Untitled9.multiply(x,y))
+  print("The product of the 2 numbers is:",Multiply.multiply(x,y))
 if a==4:
-  print("The quotient of the 2 numbers is:",untitled1.divide(x,y))
+  print("The quotient of the 2 numbers is:",DIV.divide(x,y))
