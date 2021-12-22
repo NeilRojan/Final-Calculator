@@ -5,4 +5,8 @@
 
 
 
+***Team: Munch Winners***<br>
+Leader: Neil Rojan<br>
+Collaborators: Shazil MI, Sreyas, Athma Prakash, Tanya Sony<br>
 
+We were able to create a good calculator through team work and effort.
